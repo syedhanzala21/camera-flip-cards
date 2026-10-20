@@ -14,5 +14,3 @@ A flip-card page promoting a collection of six classic analog cameras. Click (or
 - Cameras drawn with pure CSS
 - Keyboard-accessible cards (buttons with `aria-pressed`)
 - Responsive grid: 3 / 2 / 1 columns
-
-Live site: _add your GitHub Pages link here_
